@@ -27,5 +27,7 @@ Tampermonkey script to help you reserve Expo 2025 Pavilion or Event
 | C730 | Australia Pavilion - Chasing the Sun |
 | CO70 | Thailand Pavilion (General Admission) |
 | D630 | POLAND PAVILION |
-
-
+| C0R0 | UAE PAVILION |
+| C570 | UK Pavilion |
+| C7R0 | Netherlands Pavilion |
+| HMH0 | PASONA NATUREVERSE |
