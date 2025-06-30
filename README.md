@@ -31,3 +31,5 @@ Tampermonkey script to help you reserve Expo 2025 Pavilion or Event
 | C570 | UK Pavilion |
 | C7R0 | Netherlands Pavilion |
 | HMH0 | PASONA NATUREVERSE |
+| C2N0 | Italy Pavilion ~15:00 |
+| C2N3 | Italy Pavilion 15:00~ |
